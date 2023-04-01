@@ -36,3 +36,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en" alt="hashan-madusanka" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" alt="hashan-madusanka" /></p>
+
+<div style="display:flex;">
+  <img src="[left-image.jpg](https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en)" style="width:50%;" />
+  <img src="[right-image.jpg](https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&)" style="width:50%;" />
+</div>
