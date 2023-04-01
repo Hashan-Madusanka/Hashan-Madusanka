@@ -12,7 +12,7 @@
 - 📫 How to reach me **hashan_madusanka@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hashanmadusanka-2b006b153/](https://www.linkedin.com/in/hashanmadusanka-2b006b153/)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - ⚡ Fun fact **I think I am funny and talkative😜**
 
 <h3 align="left">Connect with me:</h3>
