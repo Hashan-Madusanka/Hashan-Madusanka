@@ -38,6 +38,6 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" alt="hashan-madusanka" /></p>
 
 <div style="display:flex;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en" style="width:30%;" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:30%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en" style="width:70%;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:70%;" />
 </div>
