@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashan-madusanka&label=Profile%20views&color=0e75b6&style=flat" alt="hashan-madusanka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hashanmofficial" target="blank"><img src="https://img.shields.io/twitter/follow/hashanmofficial?logo=twitter&style=for-the-badge" alt="hashanmofficial" /></a> </p>
-
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hashanmadusanka-2b006b153/](https://www.linkedin.com/in/hashanmadusanka-2b006b153/)
 
 - 📫 How to reach me **hashan_madusanka@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hashanmadusanka-2b006b153/](https://www.linkedin.com/in/hashanmadusanka-2b006b153/)
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - ⚡ Fun fact **I think I am funny and talkative😜**
 
 <h3 align="left">Connect with me:</h3>
