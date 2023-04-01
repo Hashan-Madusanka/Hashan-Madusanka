@@ -33,6 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Hashan-Madusanka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hashan-Madusanka" /></a></p><br><br>
 
+<hr colour="Dark Blue" size="10">
+
 <div style="display:flex;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en" style="width:50%;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:50%;" />
