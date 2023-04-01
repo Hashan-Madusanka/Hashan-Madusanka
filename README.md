@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hashan Madusanka</h1>
 <h3 align="center">I'm a 2nd year software engineering undergraduate, code enthusiast, and open-source contributor. I believe that continuous learning and personal development are the keys to success, and I'm committed to achieving both in my life. I'm always eager to learn new programming languages, frameworks, and tools, and apply them to create innovative solutions that can make a positive impact on society. In addition to my studies, I'm also passionate about participating various tech events and I believe that it helps me to enhance my technical skills about the latest technologies and tools and apply them to real-world projects.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashan-madusanka&label=Profile%20views&color=0e75b6&style=flat" alt="hashan-madusanka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hashanmofficial" target="blank"><img src="https://img.shields.io/twitter/follow/hashanmofficial?logo=twitter&style=for-the-badge" alt="hashanmofficial" /></a> </p>
@@ -11,7 +12,7 @@
 - 📫 How to reach me **hashan_madusanka@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hashanmadusanka-2b006b153/](https://www.linkedin.com/in/hashanmadusanka-2b006b153/)
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - ⚡ Fun fact **I think I am funny and talkative😜**
 
 <h3 align="left">Connect with me:</h3>
