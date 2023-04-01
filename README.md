@@ -39,7 +39,12 @@
 
 <hr colour="Dark Blue" size="10">
 
-<div style="display:flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en" style="width:50%;" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:50%;" />
+<div class="row" style="display:flex;">
+  <div class="column">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en" style="width:25%;" />
+  </div>  
+  <div class="column"> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:25%;" />
+  </div>  
 </div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons%3Dtrue=theme=transparent" />
