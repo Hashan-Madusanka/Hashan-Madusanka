@@ -47,4 +47,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:50%;" />
   </div>  
 </div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons%3Dtrue=theme=transparent" />
