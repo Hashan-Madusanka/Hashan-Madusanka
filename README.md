@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I think I am funny and talkative😜**
 
-<hr colour="Dark Blue" size="10">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
