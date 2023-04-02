@@ -1,5 +1,5 @@
 ![logo](https://github.com/Hashan-Madusanka/Hashan-Madusanka/blob/main/banner%20gif.gif)
-<h1 align="center">Hi 👋, I'm Hashan Madusanka</h1>
+<h1 align="center">"The best way to predict the future is to invent it."</h1>
 <h3 align="center">I'm a 2nd year software engineering undergraduate, code enthusiast, and open-source contributor. I believe that continuous learning and personal development are the keys to success, and I'm committed to achieving both in my life. I'm always eager to learn new programming languages, frameworks, and tools, and apply them to create innovative solutions that can make a positive impact on society. In addition to my studies, I'm also passionate about participating various tech events and I believe that it helps me to enhance my technical skills about the latest technologies and tools and apply them to real-world projects.</h3>
 
 <hr colour="Dark Blue" size="10">
