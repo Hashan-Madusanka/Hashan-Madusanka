@@ -55,14 +55,14 @@
   
 </p>
 
-/*<br>
-<div align="center">
-  <h2><b>✨ HOLOPIN BADGE BOARD ✨</b></h2>
-</div>
+//<br>
+//<div align="center">
+ // <h2><b>✨ HOLOPIN BADGE BOARD ✨</b></h2>
+//</div>
 
-<br>
+//<br>
 
-[![An image of @hmadusanka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hmadusanka)](https://holopin.io/@hmadusanka)*/
+//[![An image of @hmadusanka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hmadusanka)](https://holopin.io/@hmadusanka)*/
 
 <br>
 
