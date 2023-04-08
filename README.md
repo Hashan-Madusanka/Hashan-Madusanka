@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://github.com/Hashan-Madusanka/"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/></a>  
   <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">Issued for the most active users in the GitHub 2021</p>
+  <p align="center">Issued for the most active users in the GitHub 2022</p>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
@@ -82,5 +82,7 @@
 <a href="#"><img src="wave.svg" width="100%"></a>
 </p>
 
-<h3 align="right">Support:</h3>
+<br>
+
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Hashan-Madusanka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hashan-Madusanka" /></a></p><br><br>
