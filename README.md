@@ -37,16 +37,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Hashan-Madusanka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hashan-Madusanka" /></a></p><br><br>
 
-<hr colour="Dark Blue" size="10">
+<br>
 
-<div class="row" style="display:flex;">
-  <div class="column">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hashan-madusanka&show_icons=true&locale=en" style="width:50%;" />
-  </div>  
-  <div class="column"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:50%;" />
-  </div>  
-</div>
+<p align="center">
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hashan-Madusanka&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="GitHub Stats for Nandun Diaz" width="100%" align="center"></a>
+<br><br>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Hashan-Madusanka&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="GitHub Stats for Nandun Diaz" width="54%"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashan-Madusanka&layout=compact&theme=algolia&hide_border=true" alt="GitHub Stats for Nandun Diaz" width="45%"></a>
+</p>
+
 
 <a href="#"><img src="ezgif-2-b8735ddc1c.gif" alt="Hashan's 
 2022 GitHub Skyline" width="100%" height="auto"></a>
