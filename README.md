@@ -39,6 +39,10 @@
 
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hashan-Madusanka&theme=github-compact&hide_border=true)](https://github.com/Hashan-Madusanka/github-readme-activity-graph)
+
+<br>
+
 <p align="center">
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hashan-Madusanka&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="GitHub Stats for Nandun Diaz" width="100%" align="center"></a>
 <br><br>
