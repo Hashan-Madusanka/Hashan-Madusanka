@@ -1,4 +1,9 @@
 ![logo](https://github.com/Hashan-Madusanka/Hashan-Madusanka/blob/main/banner%20gif.gif)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii+Guys+👋!!;I'm+a+Entrepreneur!;I'm+a+2nd+year+undergraduate!;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
+</p>
+
 <h1 align="center">If it was easy, everyone would do it!</h1>
 <h3 align="center">I'm a 2nd year software engineering undergraduate, code enthusiast, and open-source contributor. I believe that continuous learning and personal development are the keys to success, and I'm committed to achieving both in my life. I'm always eager to learn new programming languages, frameworks, and tools, and apply them to create innovative solutions that can make a positive impact on society. In addition to my studies, I'm also passionate about participating various tech events and I believe that it helps me to enhance my technical skills about the latest technologies and tools and apply them to real-world projects.</h3>
 
