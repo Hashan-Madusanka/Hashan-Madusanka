@@ -58,5 +58,5 @@
 **<p align="center"> Made with ❤ by Hashan </p>**
 
 <p align="center">
-<a href="#"><img src="./assets/wave.svg" width="100%"></a>
+<a href="#"><img src="wave.svg" width="100%"></a>
 </p>
