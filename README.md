@@ -52,3 +52,11 @@
 2022 GitHub Skyline" width="100%" height="auto"></a>
 
 @Hashan's 2022 GitHub Skyline
+
+<br>
+
+**<p align="center"> Made with ❤ by Hashan </p>**
+
+<p align="center">
+<a href="#"><img src="./assets/wave.svg" width="100%"></a>
+</p>
