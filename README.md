@@ -47,3 +47,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-madusanka&" style="width:50%;" />
   </div>  
 </div>
+
+<a href="#"><img src="./assets/ezgif-2-f552ff1833.gif" alt="Hashan's 
+2022 GitHub Skyline" width="100%" height="auto"></a>
