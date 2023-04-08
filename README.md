@@ -48,5 +48,5 @@
   </div>  
 </div>
 
-<a href="#"><img src="./assets/ezgif-2-f552ff1833.gif" alt="Hashan's 
+<a href="#"><img src="ezgif-2-f552ff1833.gif" alt="Hashan's 
 2022 GitHub Skyline" width="100%" height="auto"></a>
