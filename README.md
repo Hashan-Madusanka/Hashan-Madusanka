@@ -1,7 +1,7 @@
 ![logo](https://github.com/Hashan-Madusanka/Hashan-Madusanka/blob/main/banner%20gif.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii+Guys+👋!!;I'm+a+Entrepreneur!;I'm+a+2nd+year+undergraduate!;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii+Guys+👋!!;I'm+a+Entrepreneur!;I'm+a+2nd+year+undergraduate!;I'm+a+Web+Developer!;I'm+a+Software+Engineer!&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 
 <h1 align="center">If it was easy, everyone would do it!</h1>
